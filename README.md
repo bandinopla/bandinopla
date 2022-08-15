@@ -3,7 +3,7 @@
 
 I'm a Full Stack Web Dev, casual Game Dev, creator of the site [weightxreps.net](https://weightxreps.net/) and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla)
 
-Im experience in web development, casual game development and 3D asset production.
+I'm experienced in web development, casual game development and 3D asset production.
 
 #### :point_down: Here are some of my personal apps/projects i've done:
 
