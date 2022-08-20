@@ -1,9 +1,16 @@
 ### Hi there 👋
-
-
 I'm a Full Stack Web Dev, casual Game Dev, creator of the site [weightxreps.net](https://weightxreps.net/) and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla)
 
-I'm experienced in web development, casual game development and 3D asset production.
+---
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bandinopla&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandinopla&langs_count=3&hide_title=true&hide_border=true" />
+</a> 
+
+---
 
 #### :point_down: Here are some of my personal apps/projects i've done:
 
