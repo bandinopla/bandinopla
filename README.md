@@ -11,7 +11,7 @@ I'm a Full Stack Web Dev, casual Game Dev, creator of the site [weightxreps.net]
         <td><a href="https://gamejolt.com/games/lucky-duckies/31468" target="_blank"><img src="imgs/ducks.jpg"/></a></td>
         <td><a href="https://www.youtube.com/watch?v=Ub88d1hcnHA" target="_blank"><img src="imgs/magic.jpg"/></a></td>  
     <td><a href="https://gamejolt.com/games/days-of-blood/31621" target="_blank"><img src="imgs/dob.jpg"/></a></td> 
-        <td><a href="https://www.flashgamesplayer.com/free/canicas/play.html" target="_blank"><img src="imgs/canicas.jpg"/></a></td>
+        <td><a href="https://youtu.be/N0xV2ZuBPDI" target="_blank"><img src="imgs/canicas.jpg"/></a></td>
         <td><a href="https://www.newgrounds.com/portal/view/339067" target="_blank"><img src="imgs/tetris.jpg"/></a></td> 
     </tr>
 </table>
