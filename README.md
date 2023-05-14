@@ -12,7 +12,7 @@ I'm a Full Stack Web Dev, casual Game Dev, creator of the site [weightxreps.net]
         <td><a href="https://www.youtube.com/watch?v=Ub88d1hcnHA" target="_blank"><img src="imgs/magic.jpg"/></a></td>  
     <td><a href="https://www.instagram.com/p/CUf8u4DI21t/" target="_blank"><img src="imgs/dob.jpg"/></a></td> 
         <td><a href="https://youtu.be/N0xV2ZuBPDI" target="_blank"><img src="imgs/canicas.jpg"/></a></td>
-        <td><a href="https://www.newgrounds.com/portal/view/339067" target="_blank"><img src="imgs/tetris.jpg"/></a></td> 
+        <td><a href="https://youtu.be/BKqcl3QQWEQ" target="_blank"><img src="imgs/tetris.jpg"/></a></td> 
     </tr>
 </table>
 
