@@ -18,7 +18,7 @@ I'm a Full Stack Web Dev, casual Game Dev, creator of the site [weightxreps.net]
 
 #### :computer: Some apps i've done
 
-<table>
+<table background="white">
   <tr> 
     <th>Weightxreps Mobile</th>
     <th>Rest Timer</th> 
@@ -29,8 +29,8 @@ I'm a Full Stack Web Dev, casual Game Dev, creator of the site [weightxreps.net]
   <tr>
     <td><a href="https://play.google.com/store/apps/details?id=net.weightxreps.app" target="_blank"><img src="imgs/app-wxr.jpg" width="300"/></a></td>
     <td ><a href="https://play.google.com/store/apps/details?id=net.weightxreps.resttimechronometer" target="_blank"><img src="imgs/app-contador.jpg" width="300"/></a></td> 
-    <td><a href="https://github.com/bandinopla/simulador-test-de-conducir" target="_blank"><img src="https://camo.githubusercontent.com/ea4ef41bc483e5f7f0b88a45462631854390e17dd83b477bf056907582962ec7/68747470733a2f2f676362612e6769746875622e696f2f4f62656c6973636f2f6865616465722f6865616465722d6c6f676f2e737667" /></a></td>
-    <td align="center"><a href="https://github.com/bandinopla/skill-assessments-quizzes" target="_blank"><img src="https://github.com/bandinopla/skill-assessments-quizzes/raw/main/cover.jpg" width="300"/></a></td>
+    <td><a href="https://bandinopla.github.io/simulador-test-de-conducir/" target="_blank"><img src="https://camo.githubusercontent.com/ea4ef41bc483e5f7f0b88a45462631854390e17dd83b477bf056907582962ec7/68747470733a2f2f676362612e6769746875622e696f2f4f62656c6973636f2f6865616465722f6865616465722d6c6f676f2e737667" /></a></td>
+    <td align="center"><a href="https://bandinopla.github.io/skill-assessments-quizzes/" target="_blank"><img src="https://github.com/bandinopla/skill-assessments-quizzes/raw/main/cover.jpg" width="300"/></a></td>
      
   </tr>
  
