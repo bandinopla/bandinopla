@@ -7,7 +7,7 @@ I'm a Full Stack Web Dev & casual Game Dev, creator of the site ⚡[weightxreps.
   
 <table>
     <tr>
-    <td><a href="https://twitter.com/pipthegame" target="_blank"><img src="imgs/pip.jpg" title="Unity"/></a></td> 
+    <td><a href="https://www.youtube.com/watch?v=5n9dcODcoJU" target="_blank"><img src="imgs/pip.jpg" title="Unity"/></a></td> 
         <td><a href="https://play.google.com/store/apps/details?id=net.weightxreps.runny" target="_blank"><img src="imgs/runny.jpg" title="Unity"/></a></td>
         <td><a href="https://www.youtube.com/watch?v=efibch1xEws" target="_blank"><img src="imgs/ducks.jpg" title="Flash"/></a></td>
         <td><a href="https://www.youtube.com/watch?v=Ub88d1hcnHA" target="_blank"><img src="imgs/magic.jpg" title="Flash"/></a></td>   
