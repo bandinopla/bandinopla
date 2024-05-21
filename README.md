@@ -1,9 +1,20 @@
 ### Hi there 👋
 I'm a Full Stack Web Dev & casual Game Dev, creator of the site ⚡[weightxreps.net](https://weightxreps.net/) and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla)  
 --- 
-**Game Dev Reel**
+
+<table>
+    <tr>
+    <td><b>Game Dev Reel</b>
 
 [![Game Dev Reel](https://img.youtube.com/vi/7MJ25NuHhFc/0.jpg)](https://www.youtube.com/watch?v=7MJ25NuHhFc)
+    </td> 
+    <td><b>3D Art Reel</b>
+
+[![Game Dev Reel](https://img.youtube.com/vi/KbyhSHsmRDE/0.jpg)](https://www.youtube.com/watch?v=KbyhSHsmRDE)
+    </td>
+    </tr>
+</table>
+
 --- 
 
 #### :video_game: Games
