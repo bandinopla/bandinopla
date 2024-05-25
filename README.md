@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm a Full Stack Web Dev & casual Game Dev, creator of the site ⚡[weightxreps.net](https://weightxreps.net/) and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla)  
---- 
+I'm a Full Stack Web Dev & casual Game Dev, creator of the site ⚡[weightxreps.net](https://weightxreps.net/) and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla). Visit [→→ my office](https://bandinopla.github.io/) 
+---
 
 <table>
     <tr>
