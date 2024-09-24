@@ -1,23 +1,30 @@
-### Hi there 👋
-I'm a Full Stack Web Dev & casual Game Dev, creator of the site ⚡[weightxreps.net](https://weightxreps.net/) and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla). Visit [→→ my office](https://bandinopla.github.io/) 
----
+### Hi there 👋 I'm Bandinopla
+I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla). Visit [→→ my office](https://bandinopla.github.io/) 
 
+### Creator of ⚡[weightxreps.net](https://weightxreps.net/)
+<a href="https://weightxreps.net" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/bandinopla/weightxreps-client/raw/main/public/session-banner.jpg" alt="WeightxReps Logo" />
+</a>
+
+### 📼 ~1 minute reels quickly showing things I did ( as a 1 man team ):
 <table>
     <tr>
-    <td><b>Game Dev Reel</b>
-
-[![Game Dev Reel](https://img.youtube.com/vi/7MJ25NuHhFc/0.jpg)](https://www.youtube.com/watch?v=7MJ25NuHhFc)
+    <td><b>Games</b> using <a href="https://unity.com/" target="_blank">Unity</a> and <a href="https://www.adobe.com/products/flashplayer/end-of-life-alternative.html">Flash 💀</a><br/>
+    <a href="https://www.youtube.com/watch?v=7MJ25NuHhFc" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.youtube.com/vi/7MJ25NuHhFc/0.jpg" width="300" height="200"/>
+    </a>
     </td> 
-    <td><b>3D Art Reel</b>
-
-[![Game Dev Reel](https://img.youtube.com/vi/KbyhSHsmRDE/0.jpg)](https://www.youtube.com/watch?v=KbyhSHsmRDE)
+    <td><b>3D Modeling</b> using <a href="https://www.blender.org/" target="_blank">Blender</a> <br/>
+    <a href="https://www.youtube.com/watch?v=KbyhSHsmRDE" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.youtube.com/vi/KbyhSHsmRDE/0.jpg"  width="300" height="200"/>
+    </a>
     </td>
     </tr>
 </table>
 
 --- 
 
-#### :video_game: Games
+#### :video_game: Casual Games
   
 <table>
     <tr>
@@ -38,6 +45,7 @@ I'm a Full Stack Web Dev & casual Game Dev, creator of the site ⚡[weightxreps.
   <tr>
     <td width="120"><a href="https://play.google.com/store/apps/details?id=net.weightxreps.app" target="_blank"><img src="imgs/app-wxr.jpg" width="300"/></a></td>  
     <td width="120"><a href="https://play.google.com/store/apps/details?id=net.weightxreps.resttimechronometer" target="_blank"><img src="imgs/app-contador.jpg" width="300"/></a></td>  
+    <td width="120"><a href="https://play.google.com/store/apps/details?id=net.weightxreps.runny" target="_blank"><img src="imgs/runny.jpg" title="Unity" height="100"/></a></td>  
   </tr> 
 </table> 
 
