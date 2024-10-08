@@ -54,7 +54,8 @@ I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Arti
 * [![npm version](https://img.shields.io/npm/v/threejs-gif-texture.svg?logo=threedotjs)](https://www.npmjs.com/package/threejs-gif-texture) [**threejs-gif-texture**](https://github.com/bandinopla/threejs-gif-texture) : Use an animated gif as a Texture in [THREE.js](https://github.com/mrdoob/three.js/) 
 * [![npm version](https://img.shields.io/npm/v/quick_flipbook.svg?logo=threedotjs)](https://www.npmjs.com/package/quick_flipbook) [**quick_flipbook**](https://github.com/bandinopla/quick_flipbook) : Create a quick [THREE.js](https://github.com/mrdoob/three.js/) flipbook.
 * [![npm version](https://img.shields.io/npm/v/react-text-tokenizer.svg?logo=react)](https://www.npmjs.com/package/react-text-tokenizer) [**react-text-tokenizer**](https://github.com/bandinopla/react-text-tokenizer) : [React](https://github.com/facebook/react) component to convert a text string into React Nodes using tokens.
-* [![pub package](https://img.shields.io/pub/v/quick_router.svg?logo=flutter)](https://pub.dev/packages/quick_router) [**quick_router**](https://github.com/bandinopla/quick_router): A quick routing mechanism for [Flutter](https://flutter.dev/) to handle deep linking in a hurry.  
+* [![pub package](https://img.shields.io/pub/v/quick_router.svg?logo=flutter)](https://pub.dev/packages/quick_router) [**quick_router**](https://github.com/bandinopla/quick_router): A quick routing mechanism for [Flutter](https://flutter.dev/) to handle deep linking in a hurry.
+* [![npm version](https://img.shields.io/npm/v/weightxreps-oauth.svg?logo=react)](https://www.npmjs.com/package/weightxreps-oauth) [**weightxreps-oauth**](https://github.com/bandinopla/weightxreps-oauth): Module to obtain an access token vía OAuth2 at weightxreps.net
 
 
 <!--
