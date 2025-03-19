@@ -6,6 +6,13 @@ I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Arti
   <img src="https://github.com/bandinopla/weightxreps-client/raw/main/public/session-banner.jpg" alt="WeightxReps Logo" />
 </a>
 
+### Play 🎮 [PIP:Skull Demo](https://bandinopla.github.io/pip-skull-demo/)
+<a href="https://bandinopla.github.io/pip-skull-demo/" target="_blank" rel="noopener noreferrer">
+  <img src="https://github.com/bandinopla/pip-skull-demo/raw/main/screenshot.png" alt="PIP Demo Banner" />
+</a>
+
+
+
 ### 📼 ~1 minute reels quickly showing things I did ( as a 1 man team ):
 <table>
     <tr>
@@ -28,7 +35,7 @@ I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Arti
   
 <table>
     <tr>
-    <td><a href="https://www.youtube.com/watch?v=5n9dcODcoJU" target="_blank"><img src="imgs/pip.jpg" title="Unity"/></a></td> 
+        <td><a href="https://github.com/bandinopla/pip-skull-demo" target="_blank"><img src="imgs/pip.jpg" title="Unity and ThreeJs"/></a></td> 
         <td><a href="https://play.google.com/store/apps/details?id=net.weightxreps.runny" target="_blank"><img src="imgs/runny.jpg" title="Unity"/></a></td>
         <td><a href="https://www.youtube.com/watch?v=efibch1xEws" target="_blank"><img src="imgs/ducks.jpg" title="Flash"/></a></td>
         <td><a href="https://www.youtube.com/watch?v=Ub88d1hcnHA" target="_blank"><img src="imgs/magic.jpg" title="Flash"/></a></td>   
