@@ -6,8 +6,8 @@ I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Arti
   <img src="https://github.com/bandinopla/weightxreps-client/raw/main/public/session-banner.jpg" alt="WeightxReps Logo" />
 </a>
 
-### Play 🎮 [PIP:Skull Demo](https://bandinopla.github.io/pip-skull-demo/)
-<a href="https://bandinopla.github.io/pip-skull-demo/" target="_blank" rel="noopener noreferrer">
+### Play 🎮 [PIP:Skull Demo](https://github.com/bandinopla/pip-skull-demo)
+<a href="https://github.com/bandinopla/pip-skull-demo" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/bandinopla/pip-skull-demo/raw/main/screenshot.png" alt="PIP Demo Banner" />
 </a>
 
