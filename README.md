@@ -1,15 +1,28 @@
 ### Hi there 👋 I'm Bandinopla
 I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla). Visit [→→ my office](https://bandinopla.github.io/) 
 
-### Creator of ⚡[weightxreps.net](https://weightxreps.net/)
+### Creator of ⚡ 
 <a href="https://weightxreps.net" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/bandinopla/weightxreps-client/raw/main/public/session-banner.jpg" alt="WeightxReps Logo" />
 </a>
 
-### Play 🎮 [PIP:Skull Demo](https://github.com/bandinopla/pip-skull-demo)
-<a href="https://github.com/bandinopla/pip-skull-demo" target="_blank" rel="noopener noreferrer">
-  <img src="https://github.com/bandinopla/pip-skull-demo/raw/main/screenshot.png" alt="PIP Demo Banner" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/bandinopla/pip-skull-demo" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/bandinopla/pip-skull-demo/raw/main/screenshot.png" alt="PIP Demo Banner" />
+      </a>
+      ThreeJs Browser game: <a href="https://bandinopla.github.io/pip-skull-demo/" target="_blank">Play it here</a>
+    </td>
+    <td>
+      <a href="https://github.com/bandinopla/three.js-visual-node-editor" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/bandinopla/three.js-visual-node-editor/raw/main/public/cover.png" alt="ThreeJs TSL Visual Node Editor cover" />
+      </a>
+      ThreeJs TSL Visual Node Editor: <a href="https://bandinopla.github.io/three.js-visual-node-editor/" target="_blank">Open Editor</a>
+    </td>
+  </tr>
+</table>
+
 
 
 
