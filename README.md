@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Bandinopla
-I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Artist](https://www.artstation.com/bandinopla). Visit [→→ my office](https://bandinopla.github.io/) 
+I'm a Creative Dev, a mix or code + art. 3D Portfolio: [3D Character Artist](https://www.artstation.com/bandinopla).  
 
 ### Creator of ⚡ 
 <a href="https://weightxreps.net" target="_blank" rel="noopener noreferrer">
@@ -73,8 +73,10 @@ I'm a Full Stack Web Dev, casual Game Dev and also a bit of a [3D Character Arti
   </tr> 
 </table> 
 
-#### :globe_with_meridians: Public modules
+#### :globe_with_meridians: Public modules 
 
+* [![npm version](https://img.shields.io/npm/v/threejs-cannones-rigger.svg?logo=blender)](https://www.npmjs.com/package/threejs-cannones-rigger) [**threejs-cannones-rigger**](https://github.com/bandinopla/threejs-cannones-rigger) : Create a [THREE.js](https://github.com/mrdoob/three.js/) / Cannon-es physics rigs inside of [Blender](https://www.blender.org/).
+* [![npm version](https://img.shields.io/npm/v/threejs-cannones-tube.svg?logo=threedotjs)](https://www.npmjs.com/package/threejs-cannones-tube) [**threejs-cannones-tube**](https://github.com/bandinopla/threejs-cannones-tube) : Create flexible physics driven tubes/cables in [THREE.js](https://github.com/mrdoob/three.js/) 
 * [![npm version](https://img.shields.io/npm/v/threejs-gif-texture.svg?logo=threedotjs)](https://www.npmjs.com/package/threejs-gif-texture) [**threejs-gif-texture**](https://github.com/bandinopla/threejs-gif-texture) : Use an animated gif as a Texture in [THREE.js](https://github.com/mrdoob/three.js/) 
 * [![npm version](https://img.shields.io/npm/v/quick_flipbook.svg?logo=threedotjs)](https://www.npmjs.com/package/quick_flipbook) [**quick_flipbook**](https://github.com/bandinopla/quick_flipbook) : Create a quick [THREE.js](https://github.com/mrdoob/three.js/) flipbook.
 * [![npm version](https://img.shields.io/npm/v/react-text-tokenizer.svg?logo=react)](https://www.npmjs.com/package/react-text-tokenizer) [**react-text-tokenizer**](https://github.com/bandinopla/react-text-tokenizer) : [React](https://github.com/facebook/react) component to convert a text string into React Nodes using tokens.
