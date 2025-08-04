@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Bandinopla
-I'm a Creative Dev, a mix or code + art. 3D Portfolio: [3D Character Artist](https://www.artstation.com/bandinopla).  
+I'm a Creative Dev, a mix of code + art. 3D Portfolio: [3D Character Artist](https://www.artstation.com/bandinopla).  
 
 ### Creator of ⚡ 
 <a href="https://weightxreps.net" target="_blank" rel="noopener noreferrer">
