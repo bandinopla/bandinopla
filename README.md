@@ -14,8 +14,8 @@ I'm a Creative Dev, a mix of code + art. 3D Portfolio: [3D Character Artist](htt
       </a>
     </td>
     <td>
-      <a href="https://github.com/bandinopla/three.js-visual-node-editor" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/bandinopla/three.js-visual-node-editor/raw/main/git-cover.png"  alt="ThreeJs TSL Visual Node Editor cover" />
+      <a href="https://github.com/bandinopla/threejs-cannones-rigger" target="_blank" rel="noopener noreferrer">
+        <img src="https://github.com/bandinopla/threejs-cannones-rigger/raw/main/cover.png"  alt="ThreeJs / Cannon-es Scene Rigger" />
       </a> 
     </td>
   </tr>
@@ -23,7 +23,7 @@ I'm a Creative Dev, a mix of code + art. 3D Portfolio: [3D Character Artist](htt
     <td>
       ThreeJs Browser game: <a href="https://bandinopla.github.io/pip-skull-demo/" target="_blank">Play it here</a> | <a href="https://www.youtube.com/watch?v=RlODeS0Gc0o" target="_blank">TRAILER</a> | <a href="https://www.youtube.com/watch?v=D_krlwCrXAY" target="_blank">GAMEPLAY</a> | <a href="https://www.youtube.com/watch?v=drB5PZuXfN8" target="_blank">MAKING OF</a>
     </td>
-    <td>ThreeJs TSL Visual Node Editor: <a href="https://bandinopla.github.io/three.js-visual-node-editor/" target="_blank">Open Editor</a></td>
+    <td> Rig physics with : <a href="https://bandinopla.github.io/threejs-cannones-rigger/" target="_blank">ThreeJs / Cannon-es Scene Rigger</a></td>
   </tr>
 </table>
 
