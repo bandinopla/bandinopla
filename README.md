@@ -1,33 +1,10 @@
 ### Hi there 👋 I'm Bandinopla
-I'm a Creative Dev, a mix of code + art. 3D Portfolio: [3D Character Artist](https://www.artstation.com/bandinopla).  
+Full-stack developer with a creative edge and 3D art pipeline expertise. ⚡ [Check out my portfolio](https://bandinopla.github.io/) ⚡  
 
-### Creator of ⚡ 
+### Creator of 
 <a href="https://weightxreps.net" target="_blank" rel="noopener noreferrer">
   <img src="https://github.com/bandinopla/weightxreps-client/raw/main/public/session-banner.jpg" alt="WeightxReps Logo" />
-</a>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/bandinopla/pip-skull-demo" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/bandinopla/pip-skull-demo/raw/main/screenshot.png" alt="PIP Demo Banner" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/bandinopla/threejs-cannones-rigger" target="_blank" rel="noopener noreferrer">
-        <img src="https://github.com/bandinopla/threejs-cannones-rigger/raw/main/cover.png"  alt="ThreeJs / Cannon-es Scene Rigger" />
-      </a> 
-    </td>
-  </tr>
-  <tr>
-    <td>
-      ThreeJs Browser game: <a href="https://bandinopla.github.io/pip-skull-demo/" target="_blank">Play it here</a> | <a href="https://www.youtube.com/watch?v=RlODeS0Gc0o" target="_blank">TRAILER</a> | <a href="https://www.youtube.com/watch?v=D_krlwCrXAY" target="_blank">GAMEPLAY</a> | <a href="https://www.youtube.com/watch?v=drB5PZuXfN8" target="_blank">MAKING OF</a>
-    </td>
-    <td> Rig physics with : <a href="https://bandinopla.github.io/threejs-cannones-rigger/" target="_blank">ThreeJs / Cannon-es Scene Rigger</a></td>
-  </tr>
-</table>
-
-
+</a> 
 
 
 ### 📼 ~1 minute reels quickly showing things I did ( as a 1 man team ):
@@ -46,32 +23,7 @@ I'm a Creative Dev, a mix of code + art. 3D Portfolio: [3D Character Artist](htt
     </tr>
 </table>
 
---- 
-
-#### :video_game: Casual Games
-  
-<table>
-    <tr>
-        <td><a href="https://github.com/bandinopla/pip-skull-demo" target="_blank"><img src="imgs/pip.jpg" title="Unity and ThreeJs"/></a></td> 
-        <td><a href="https://play.google.com/store/apps/details?id=net.weightxreps.runny" target="_blank"><img src="imgs/runny.jpg" title="Unity"/></a></td>
-        <td><a href="https://www.youtube.com/watch?v=efibch1xEws" target="_blank"><img src="imgs/ducks.jpg" title="Flash"/></a></td>
-        <td><a href="https://www.youtube.com/watch?v=Ub88d1hcnHA" target="_blank"><img src="imgs/magic.jpg" title="Flash"/></a></td>   
-        <td>
-        <a href="https://www.instagram.com/p/CUf8u4DI21t/" target="_blank"><img src="imgs/dob.jpg" title="Flash"/></a></td> 
-        <td><a href="https://youtu.be/N0xV2ZuBPDI" target="_blank"><img src="imgs/canicas.jpg" title="Flash"/></a></td>
-        <td><a href="https://youtu.be/BKqcl3QQWEQ" target="_blank"><img src="imgs/tetris.jpg" title="Flash"/></a></td> 
-    </tr>
-</table>
-
-#### :iphone: Android Apps
-
-<table background="white"> 
-  <tr>
-    <td width="120"><a href="https://play.google.com/store/apps/details?id=net.weightxreps.app" target="_blank"><img src="imgs/app-wxr.jpg" width="300"/></a></td>  
-    <td width="120"><a href="https://play.google.com/store/apps/details?id=net.weightxreps.resttimechronometer" target="_blank"><img src="imgs/app-contador.jpg" width="300"/></a></td>  
-    <td width="120"><a href="https://play.google.com/store/apps/details?id=net.weightxreps.runny" target="_blank"><img src="imgs/runny.jpg" title="Unity" height="100"/></a></td>  
-  </tr> 
-</table> 
+---  
 
 #### :globe_with_meridians: Public modules 
 
