@@ -26,7 +26,7 @@ Full-stack developer with a creative edge and 3D art pipeline expertise. ⚡ [Ch
 ---  
 
 #### :globe_with_meridians: Public modules 
-
+* [![npm version](https://img.shields.io/npm/v/bandijoystick.svg?logo=npm)](https://www.npmjs.com/package/bandijoystick) [**bandijoystick**](https://github.com/bandinopla/bandijoystick) : Turn a phone into a remote control for your webapp.
 * [![npm version](https://img.shields.io/npm/v/threejs-cannones-rigger.svg?logo=blender)](https://www.npmjs.com/package/threejs-cannones-rigger) [**threejs-cannones-rigger**](https://github.com/bandinopla/threejs-cannones-rigger) : Create a [THREE.js](https://github.com/mrdoob/three.js/) / Cannon-es physics rigs inside of [Blender](https://www.blender.org/).
 * [![npm version](https://img.shields.io/npm/v/threejs-cannones-tube.svg?logo=threedotjs)](https://www.npmjs.com/package/threejs-cannones-tube) [**threejs-cannones-tube**](https://github.com/bandinopla/threejs-cannones-tube) : Create flexible physics driven tubes/cables in [THREE.js](https://github.com/mrdoob/three.js/) 
 * [![npm version](https://img.shields.io/npm/v/threejs-gif-texture.svg?logo=threedotjs)](https://www.npmjs.com/package/threejs-gif-texture) [**threejs-gif-texture**](https://github.com/bandinopla/threejs-gif-texture) : Use an animated gif as a Texture in [THREE.js](https://github.com/mrdoob/three.js/) 
