@@ -26,7 +26,6 @@ Full-stack developer with a creative edge and 3D art pipeline expertise. ⚡ [Ch
 ---  
 
 #### :globe_with_meridians: Public modules 
-https://www.npmjs.com/package/three-simplecloth
 * [![npm version](https://img.shields.io/npm/v/three-simplecloth.svg?logo=threedotjs)](https://www.npmjs.com/package/three-simplecloth) [**Threejs Simple Cloth**](https://github.com/bandinopla/three-simplecloth) : Easily vertex paint cloth into an animated mesh.  
 * [![npm version](https://img.shields.io/npm/v/threejs-blendertools.svg?logo=threedotjs)](https://www.npmjs.com/package/threejs-blendertools) [**Threejs Blender Tools**](https://github.com/bandinopla/threejs-blendertools) : Sync a camera or an object in Blender and ThreeJs using websockets.  
 * [![npm version](https://img.shields.io/npm/v/bandijoystick.svg?logo=npm)](https://www.npmjs.com/package/bandijoystick) [**bandijoystick**](https://github.com/bandinopla/bandijoystick) : Turn a phone into a remote control for your webapp.
